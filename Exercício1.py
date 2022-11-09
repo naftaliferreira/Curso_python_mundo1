@@ -1,0 +1,1 @@
+""" Nesta aula apenas foi ensinado como preparar o ambiente e configurar a idle para poder programar. """
