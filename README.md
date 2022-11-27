@@ -392,6 +392,8 @@ import random
 
 ### Exercício 33 - Maior e menor valores 
 
+### Exercício 34 - Aumentos Múltiplos
+
 ### Exercício 35 - Analisando Triângulo v1.0
 
 ## Aula 11 - Cores no Python.
