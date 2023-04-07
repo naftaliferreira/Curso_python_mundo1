@@ -4,8 +4,6 @@
 
 # Para saber o local de origem basta usar: 
 """
-import os 
-print(os.getcwd())
 
-"""
-### Programa continua não funcionando, posteriormente irei voltar neste exercício e corrigir usando outra idle.
+
+
